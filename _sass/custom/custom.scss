@@ -1,0 +1,23 @@
+.site-header {
+    background-image: url("../images/places.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.site-title {
+    padding-left: 3em;
+}
+.time {
+    font-weight: bold;
+}
+#programme tr:nth-child(odd) td {
+    background-color: #f5f6fa;
+}
+
+#programme tr.break td {
+    background-color: #41a14463;
+}
+
+#programme tr.keynote td {
+    background-color: #ffff0043;
+}
