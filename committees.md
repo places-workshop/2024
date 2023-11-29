@@ -38,4 +38,4 @@ permalink: /committees
 - [Simon Gay](http://www.dcs.gla.ac.uk/~simon), University of Glasgow, UK
 - [Luca Padovani](https://boystrange.github.io), Università di Camerino, IT
 - [Vasco T. Vasconcelos](https://www.di.fc.ul.pt/~vv), Universidade de Lisboa, PT
-- [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida), University of Oxford and Imperial College London, UK
+- [Nobuko Yoshida](http://https://www.cs.ox.ac.uk/people/nobuko.yoshida/), University of Oxford, UK

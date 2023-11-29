@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PLACES 2024
-email: ...places24...@googlegroups.com
+email: places24@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   15th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software.
 baseurl: "/2024" # the subpath of your site, e.g. /blog
