@@ -10,7 +10,7 @@ permalink: /committees
 ## Programme Chairs
 
 - [Diana Costa](https://ciencias.ulisboa.pt/perfil/dfdcosta), LASIGE, University of Lisbon, PT
-- [Raymond Hu](http://http://eecs.qmul.ac.uk/people/profiles/huraymond.html), Queen Mary University of London, UK
+- [Raymond Hu](http://eecs.qmul.ac.uk/people/profiles/huraymond.html), Queen Mary University of London, UK
 
 
 ## Programme Committee
