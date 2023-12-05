@@ -9,13 +9,13 @@ permalink: /committees
 
 ## Programme Chairs
 
-- [Diana Costa](http://...TODO...), LASIGE, University of Lisbon, PT
+- [Diana Costa](https://www.lasige.pt/member/diana-costa/), LASIGE, University of Lisbon, PT
 - [Raymond Hu](http://http://eecs.qmul.ac.uk/people/profiles/huraymond.html), Queen Mary University of London, UK
 
 
 ## Programme Committee
 
-- **[TBC]**
+- [TBA]
 
 <!--
 - [Marco Carbone](https://www.itu.dk/~maca), IT University of Copenhagen, DK

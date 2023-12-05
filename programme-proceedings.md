@@ -13,8 +13,10 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
 -->
 
 **6 April 2024**<br>
-**TODO** **[Parc Alvisse Hotel](https://maps.app.goo.gl/7JXZ9afgpbw4zPk86)**, **[TBC]**.
+**[Parc Alvisse Hotel](https://maps.app.goo.gl/7JXZ9afgpbw4zPk86)**. <!--, [TBC].-->
 {:style="font-size:1.5em;"}
+
+Programme: [TBA]
 
 <!--
 <table id="programme">

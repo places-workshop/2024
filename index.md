@@ -36,4 +36,4 @@ The [programme and proceedings](programme-proceedings) of PLACES 2023 are now pu
 -->
 
 * Keynote speakers and talks:
-  - **[TBC]**
+  - [TBA]

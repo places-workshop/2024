@@ -9,15 +9,17 @@ permalink: /cfp
 
 ## Important Dates
 
-* Abstract registration deadline: **[TBC]**
-* Submission deadline: **[TBC]**
-* Author notification: [TBC]
+* Abstract registration deadline: [TBA]
+* Submission deadline: [TBA]
+* Author notification: [TBA]
 * Workshop: 6 April 2024 in Luxembourg City, Luxembourg
 
 
 ## Submission Instructions
 
-Submission site: **TODO** <https://easychair.org/conferences/?conf=places2024>
+Submission site: [coming soon]
+
+<!--**TODO** <https://easychair.org/conferences/?conf=places2024>-->
 
 Submissions are invited in the general area of programming language approaches
 to concurrency, communication and distribution, ranging from foundational
