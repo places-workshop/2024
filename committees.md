@@ -9,29 +9,24 @@ permalink: /committees
 
 ## Programme Chairs
 
-- [Diana Costa](https://ciencias.ulisboa.pt/perfil/dfdcosta), University of Lisbon, PT
+- [Diana Costa](https://ciencias.ulisboa.pt/perfil/dfdcosta), Universidade de Lisboa, PT
 - [Raymond Hu](http://eecs.qmul.ac.uk/people/profiles/huraymond.html), Queen Mary University of London, UK
 
 
 ## Programme Committee
 
-- [TBA]
+- [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura), University of Kent, UK
+- [Juliana Franco](https://jupvfranco.github.io/), DeepMind, UK
+- [Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/), Università di Torino, IT
+- [Cinzia Di Giusto](https://niouze.i3s.unice.fr/digiusto/node/1), Université Côte d'Azur, CNRS, FR
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK
+- [Cosimo Laneve](https://www.unibo.it/sitoweb/cosimo.laneve/en), University of Bologna, IT
+- [Matthew Alan Le Brun](https://www.gla.ac.uk/schools/computing/staff/matthewalanlebrun/), University of Glasgow, UK
+- [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Universität Augsburg, DE
+- [Diogo Poças](https://www.lasige.pt/member/diogo-pocas/), LASIGE, Universidade de Lisboa, PT
+- [Shoji Yuen](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html), Nagoya University, JP
+- [Additional members to be confirmed.]
 
-<!--
-- [Marco Carbone](https://www.itu.dk/~maca), IT University of Copenhagen, DK
-- [Elias Castegren](https://eliasc.github.io), Uppsala University, SE
-- [Silvia Crafa](https://www.math.unipd.it/~crafa), Università di Padova, IT
-- [Francisco Ferreira](https://franciscoferreira.org/), Royal Holloway, University of London, UK
-- [José Fragoso Santos](https://web.ist.utl.pt/jose.fragoso), Universidade de Lisboa and INESC-ID, PT
-- [Paola Giannini](https://people.unipmn.it/giannini), Università del Piemonte Orientale, IT
-- [Andrew K. Hirsch](https://akhirsch.science), State University of New York at Buffalo, US
-- [Sung-Shik Jongmans](https://sungshik.github.io/), Open University of the Netherlands, NL
-- [Luc Maranget](https://pauillac.inria.fr/~maranget), INRIA Paris, FR
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido), Universidade de Lisboa and LASIGE, PT
-- [Violet Ka I Pun](https://ict.hvl.no/people/violetpun), Western Norway University of Applied Sciences, NO
-- [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto), Gran Sasso Science Institute, IT
-- [Laura Voinea](https://lauravoinea.github.io/), University of Glasgow, UK
--->
 
 ## Organising Committee
 
