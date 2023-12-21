@@ -28,6 +28,7 @@ established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
 PLACES has had 14 previous iterations; this is the 15th edition.
 
+
 ## Highlights
 
 <!--
@@ -36,4 +37,6 @@ The [programme and proceedings](programme-proceedings) of PLACES 2023 are now pu
 -->
 
 * Keynote speakers and talks:
-  - [TBA]
+  - [Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/), Università di Torino, IT.
+  - [Peter Müller](http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html),  ETH Zurich, CH.
+
