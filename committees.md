@@ -16,9 +16,9 @@ permalink: /committees
 ## Programme Committee
 
 - [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura), University of Kent, UK
-- [Juliana Franco](https://jupvfranco.github.io/), DeepMind, UK
-- [Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/), Università di Torino, IT
+<!-- [Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/), Università di Torino, IT -->
 - [Cinzia Di Giusto](https://niouze.i3s.unice.fr/digiusto/node/1), Université Côte d'Azur, CNRS, FR
+- [Juliana Franco](https://jupvfranco.github.io/), DeepMind, UK
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK
 - [Cosimo Laneve](https://www.unibo.it/sitoweb/cosimo.laneve/en), University of Bologna, IT
 - [Matthew Alan Le Brun](https://www.gla.ac.uk/schools/computing/staff/matthewalanlebrun/), University of Glasgow, UK
