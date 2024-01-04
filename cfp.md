@@ -18,7 +18,7 @@ permalink: /cfp
 ## Submission Instructions
 
 Submission site:
-[https://easychair.org/conferences/submissions?a=32006287](https://easychair.org/conferences/submissions?a=32006287)
+[https://easychair.org/conferences/?conf=places2024](https://easychair.org/conferences/?conf=places2024)
 
 <!--**TODO** <https://easychair.org/conferences/?conf=places2024>-->
 
