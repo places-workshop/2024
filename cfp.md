@@ -17,7 +17,8 @@ permalink: /cfp
 
 ## Submission Instructions
 
-Submission site: [coming soon]
+Submission site:
+[https://easychair.org/conferences/submissions?a=32006287](https://easychair.org/conferences/submissions?a=32006287)
 
 <!--**TODO** <https://easychair.org/conferences/?conf=places2024>-->
 
@@ -67,14 +68,12 @@ Relevant topics include, but are not limited to:
 ## Proceedings and Journal Special Issue
 
 The proceedings of PLACES 2024 with accepted research papers will be published
-as a Special Issue, publisher [TBC].
-<!--as a volume of [EPTCS](https://eptcs.org/).-->
+as a volume of
+[EPTCS](https://eptcs.org/).
 
-<!--
-Authors of selected papers from PLACES 2023 will be later invited to submit
-extended versions of their papers to a special issue of [Information and
-Computation](https://www.journals.elsevier.com/information-and-computation) or
-[JLAMP](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming)
+Authors of selected papers from PLACES 2024 will be later invited to submit
+extended versions of their papers to a special issue of 
+[Information and Computation](https://www.journals.elsevier.com/information-and-computation)
+or [JLAMP](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming)
 or [FAC](https://dl.acm.org/journal/fac).
--->
 
