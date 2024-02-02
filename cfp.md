@@ -9,8 +9,8 @@ permalink: /cfp
 
 ## Important Dates
 
-* Abstract registration deadline: **4 February** 2024, AoE
-* Submission deadline: **7 February** 2024, AoE
+* **EXTENDED** Abstract registration deadline: **7 February** 2024, AoE
+* **EXTENDED** Submission deadline: **11 February** 2024, AoE
 * Author notification: **8 March** 2024, AoE
 * Workshop: 6 April 2024 in Luxembourg City, Luxembourg
 
