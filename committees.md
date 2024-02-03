@@ -23,10 +23,10 @@ permalink: /committees
 - [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford, UK.
 - [Cosimo Laneve](https://www.unibo.it/sitoweb/cosimo.laneve/en), University of Bologna, IT
 - [Matthew Alan Le Brun](https://www.gla.ac.uk/schools/computing/staff/matthewalanlebrun/), University of Glasgow, UK
+- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova/), Brunel University, UK
 - [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Universität Augsburg, DE
 - [Diogo Poças](https://www.lasige.pt/member/diogo-pocas/), LASIGE, Universidade de Lisboa, PT
 - [Shoji Yuen](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html), Nagoya University, JP
-- [Additional members to be confirmed.]
 
 
 ## Organising Committee
