@@ -26,7 +26,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td colspan="2">Opening of PLACES 2024</td>
     </tr>
     <tr class="keynote">
-        <td class="time">9:00-9:50</td>
+        <td class="time">9:10-10:00</td>
         <td><strong>Keynote talk</strong></td>
         <td>
           <strong><a href="http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html">Peter Müller</a></strong>,
