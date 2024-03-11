@@ -20,7 +20,7 @@ permalink: /committees
 - [Cinzia Di Giusto](https://niouze.i3s.unice.fr/digiusto/node/1), Université Côte d'Azur, CNRS, FR
 - [Juliana Franco](https://jupvfranco.github.io/), DeepMind, UK
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK
-- [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford, UK.
+- [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford, UK
 - [Cosimo Laneve](https://www.unibo.it/sitoweb/cosimo.laneve/en), University of Bologna, IT
 - [Matthew Alan Le Brun](https://www.gla.ac.uk/schools/computing/staff/matthewalanlebrun/), University of Glasgow, UK
 - [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova/), Brunel University, UK

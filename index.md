@@ -37,6 +37,6 @@ The [programme and proceedings](programme-proceedings) of PLACES 2023 are now pu
 -->
 
 * Keynote speakers and talks:
-  - **[Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/)**, Università di Torino, IT.
-  - **[Peter Müller](http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html)**,  ETH Zurich, CH.
+  - **[Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/)**, Università di Torino, IT. *"Simple MultiParty Sessions"*
+  - **[Peter Müller](http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html)**,  ETH Zurich, CH. *"Verified Secure Routing"*
 

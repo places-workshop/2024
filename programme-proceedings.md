@@ -13,145 +13,110 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
 -->
 
 **6 April 2024**<br>
-**[Parc Alvisse Hotel](https://maps.app.goo.gl/7JXZ9afgpbw4zPk86)**. <!--, [TBC].-->
+**[Parc Alvisse Hotel](https://maps.app.goo.gl/7JXZ9afgpbw4zPk86), Room: Holenfells**
 {:style="font-size:1.5em;"}
 
-Programme: [TBA]
-
-<!--
 <table id="programme">
     <tr>
-        <td class="time">8:00-8:50</td>
+        <td class="time">8:00-9:00</td>
         <td colspan="2">Arrival and registration</td>
     </tr>
     <tr>
-        <td class="time">8:50-9:00</td>
-        <td colspan="2">Opening of PLACES 2023</td>
+        <td class="time">9:00-9:10</td>
+        <td colspan="2">Opening of PLACES 2024</td>
     </tr>
     <tr class="keynote">
         <td class="time">9:00-9:50</td>
         <td><strong>Keynote talk</strong></td>
         <td>
-          <strong><a href="https://wwwhome.ewi.utwente.nl/~marieke">Marieke Huisman</a></strong>,
-          University of Twente, NL.<br>
-          <strong><em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.1">VerCors & Alpinist: Verification of Optimised GPU Programs</a></em></strong>
-        </td>
-    </tr>
-    <tr>
-        <td class="time">9:50-10:10</td>
-        <td>Session:<br>Concurrency 1</td>
-        <td>
-          Felix Stutz.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Multiparty Session Types Meet Message Sequence Charts</a></em>
+          <strong><a href="http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html">Peter Müller</a></strong>,
+          ETH Zurich, CH.<br>
+          <strong><em>Verified Secure Routing</em></strong>
         </td>
     </tr>
     <tr class="break">
-        <td class="time">10:10-10:30</td>
+        <td class="time">10:00-10:30</td>
         <td colspan="2">Coffee break</td>
     </tr>
     <tr>
-        <td class="time">10:30-11:00</td>
-        <td rowspan="5">Session:<br>Concurrency 2</td>
+        <td class="time">10:30-11:05</td>
+        <td rowspan="3">Session:<br>Networking and Semantics</td>
         <td>
-          Matteo Cimini.<br>
-          <em><a href="https://doi.org/10.4204/EPTCS.378.2">A Declarative Validator for GSOS Languages</a></em>
+          Samuel Cavoj, Ivan Nikitin, Colin Perkins and Ornela Dardha.<br>
+          <em>Session types for the transport layer: towards an implementation of TCP</em>
         </td>
     </tr>
     <tr>
-        <td class="time">11:00-11:30</td>
+        <td class="time">11:05-11:40</td>
         <td>
-          Dominic Orchard, Mihail Munteanu and Paulo Torrens.<br>
-          <em><a href="https://doi.org/10.4204/EPTCS.378.4">Communicating Actor Automata: modelling Erlang processes as
-              communicating machines</a></em>
+          Simon Fowler, Philipp Haller, Roland Kuhn, Sam Lindley, Alceste Scalas and Vasco T. Vasconcelos.<br>
+          <em>Behavioural Types for Heterogeneous Systems (Position Paper)</em>
         </td>
     </tr>
     <tr>
-        <td class="time">11:30-12:00</td>
+        <td class="time">11:40-12:15</td>
         <td>
-          Ton Smeele and Sung-Shik Jongmans.<br>
-          <em><a href="https://doi.org/10.4204/EPTCS.378.5">Choreographic Programming of Isolated Transactions</a></em>
-        </td>
-    </tr>
-    <tr>
-        <td class="time">12:00-12:20</td>
-        <td>
-          Joseph Paulus, Daniele Nantes-Sobrinho and Jorge A. Pérez.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Functions as Processes: The Non-Deterministic Case</a></em>
-        </td>
-    </tr>
-    <tr>
-        <td class="time">12:20-12:40</td>
-        <td>
-          Åsmund Aqissiaq Arild Kløvstad.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Concurrent Symbolic Execution with Trace Semantics in Coq</a></em>
+          Ilaria Castellani and Paola Giannini.<br>
+          <em>Towards a semantic characterisation of global type well-formedness</em>
         </td>
     </tr>
     <tr class="break">
-        <td class="time">12:40-14:00</td>
-        <td colspan="2">Lunch break</td>
+        <td class="time">12:30-14:00</td>
+        <td colspan="2">Lunch</td>
     </tr>
     <tr class="keynote">
         <td class="time">14:00-14:50</td>
         <td><strong>Keynote talk</strong></td>
         <td>
-          <strong><a href="https://www.di.fc.ul.pt/~vv">Vasco T. Vasconcelos</a></strong>,
-          University of Lisbon, PT.<br>
-          <strong><em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.2">Thirty Years of Session Types</a></em></strong>
+          <strong><a href="http://www.di.unito.it/~dezani/">Mariangiola Dezani-Ciancaglini</a></strong>,
+          Università di Torino, IT.<br>
+          <strong><em>Simple MultiParty Sessions</em></strong>
         </td>
     </tr>
     <tr>
-        <td class="time">14:50-15:20</td>
-        <td rowspan="3">Session:<br>Session types 1</td>
+        <td class="time">15:00-15:35</td>
+        <td rowspan="2">Session:<br>Session subtyping</td>
         <td>
-          Ross Horne and Luca Padovani.<br>
-          <em><a href="https://doi.org/10.4204/EPTCS.378.3">A Logical Account of Subtyping for Session Types</a></em>
+          Thien Udomsrirungruang and Nobuko Yoshida.<br>
+          <em>Three Subtyping Algorithms for Binary Session Types and their Complexity Analyses</em>
         </td>
     </tr>
     <tr>
-        <td class="time">15:20-15:50</td>
+        <td class="time">15:35-16:00</td>
         <td>
-          Bernardo Almeida, Andreia Mordido and Vasco T. Vasconcelos.<br>
-          <em><a href="https://doi.org/10.4204/EPTCS.378.1">Kind inference for the FreeST Programming Language</a></em>
-        </td>
-    </tr>
-    <tr>
-        <td class="time">15:50-16:10</td>
-        <td>
-          Matthew Alan Le Brun and Ornela Dardha.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">MAGπ: Types for Failure-Prone Communication</a></em>
+          Elaine Li, Felix Stutz and Thomas Wies.<br>
+          <em> Deciding Subtyping for Asynchronous Multiparty Sessions</em>
         </td>
     </tr>
     <tr class="break">
-        <td class="time">16:10-16:30</td>
+        <td class="time">16:00-16:30</td>
         <td colspan="2">Coffee break</td>
     </tr>
     <tr>
-        <td class="time">16:30-16:50</td>
-        <td rowspan="2">Session:<br>Session types 2</td>
+        <td class="time">16:30-17:05</td>
+        <td rowspan="3">Session:<br>Session-typed programming</td>
         <td>
-          Carlos Alberto Ramirez Restrepo, Juan C. Jaramillo and Jorge A. Pérez.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Session-Based Concurrency, Implemented in Maude</a></em>
+          Pedro Ângelo, Atsushi Igarashi and Vasco Vasconcelos<br>
+          <em>Session-typed Metaprogramming</em>
         </td>
     </tr>
     <tr>
-        <td class="time">16:50-17:10</td>
+        <td class="time">17:05-17:30</td>
         <td>
-          Diogo Poças, Diana Costa, Andreia Mordido and Vasco T. Vasconcelos.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Polymorphic Sessions and Sequential Composition of Types</a></em>
+          Lasse Nielsen and Nobuko Yoshida.<br>
+          <em>Hapi - Implementing the asynchronous pi-calculus with multiparty session types</em>
         </td>
     </tr>
     <tr>
-        <td class="time">17:10-17:30</td>
-        <td>Session:<br>Programming languages</td>
+        <td class="time">17:30-17:55</td>
         <td>
-          Mads Rosendahl, Maja H. Kirkeby, Mathias Larsen, Martin Sundman,
-          Tjark Petersen and Martin Schoeberl.<br>
-          <em><a href="https://cgi.cse.unsw.edu.au/~eptcs/revision.cgi?PLACES2023#EPTCS378.0.3">Language Support for Implementing Algorithms on Low Level Hardware Components</a></em>
+          Walid Nawfal Sabihi, Martin Vassor and Nobuko Yoshida.<br>
+          <em>Multiparty Session Type Inference for a Rust DSL</em>
         </td>
     </tr>
     <tr>
-        <td class="time">17:30-17:40</td>
+        <td class="time">17:55-18:00</td>
         <td>Closing</td>
     </tr>
 </table>
--->
+
