@@ -73,6 +73,10 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
           <strong><em>Simple MultiParty Sessions</em></strong>
         </td>
     </tr>
+    <tr class="break">
+        <td class="time">14:50-15:00</td>
+        <td colspan="2">Mini break</td>
+    </tr>
     <tr>
         <td class="time">15:00-15:35</td>
         <td rowspan="2">Session:<br>Session subtyping</td>
