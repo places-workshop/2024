@@ -120,7 +120,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
     <tr>
         <td class="time">17:55-18:00</td>
-        <td>Closing</td>
+        <td colspan="2">Closing</td>
     </tr>
 </table>
 
