@@ -89,7 +89,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td class="time">15:35-16:00</td>
         <td>
           Elaine Li, Felix Stutz and Thomas Wies.<br>
-          <em> Deciding Subtyping for Asynchronous Multiparty Sessions</em>
+          <em>Multiparty Session Type Projection and Subtyping with Automata</em>
         </td>
     </tr>
     <tr class="break">
@@ -108,7 +108,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
         <td class="time">17:05-17:30</td>
         <td>
           Lasse Nielsen and Nobuko Yoshida.<br>
-          <em>Hapi - Implementing the asynchronous pi-calculus with multiparty session types</em>
+          <em>Hapi - Implementing the asynchronous &#960;-calculus with multiparty session types</em>
         </td>
     </tr>
     <tr>
@@ -124,3 +124,36 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
 </table>
 
+<hr>
+
+<p>
+<a name="keynote1"></a>
+<strong>Keynote Talk:</strong> <em>Verified Secure Routing</em>
+</p>
+
+<p>
+<a href="http://www.pm.inf.ethz.ch/people/personal/pmueller-pers.html">Peter Müller</a> <em>(ETH Zurich, CH)</em>
+</p>
+
+<p>
+SCION is a new Internet architecture that addresses many of the security vulnerabilities of today’s Internet. Its clean-slate design provides, among other properties, route control, failure isolation, and multi-path communication. The verifiedSCION project is an effort to formally verify the correctness and security of SCION. It aims to provide strong guarantees for the entire architecture, from the protocol design to its concrete implementation. The project uses stepwise refinement to prove that the protocol withstands increasingly strong attackers. The refinement proofs assume that all network components such as routers satisfy their specifications. This property is then verified separately using deductive program verification in separation logic. This talk will give an overview of the verifiedSCION project and explain, in particular, how we verify code-level properties such as memory safety, I/O behavior, and information flow security.
+</p>
+
+
+<hr>
+
+<p>
+<a name="keynote2"></a>
+<strong>Keynote Talk:</strong> <em>Simple MultiParty Sessions</em>
+</p>
+
+<p>
+<a href="http://www.di.unito.it/~dezani/">Mariangiola Dezani-Ciancaglini</a> <em>(Università di Torino, IT)</em>
+</p>
+
+<p>
+Simple MultiParty Sessions (SMPS) do not have channels, session initiators and the distinction between compile time and run time syntax. 
+They are based only on participant names and input/output processes. They are equipped with global types without requiring projections and local types.
+In this presentation we will discuss pros and cons of SMPS. On the good side SMPS allow to easily describe internal delegation, partial typing and session composition.
+On the bad side SMPS are less espressive than standard  MultiParty Sessions. In particular interleaved sessions with crossing delegations cannot be represented. 
+</p>
