@@ -40,7 +40,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
     <tr>
         <td class="time">10:30-11:05</td>
-        <td rowspan="3">Session:<br>Networking and Semantics</td>
+        <td rowspan="3">Session:<br>Networking and Semantics<br><br>Chair: TBA</td>
         <td>
           Samuel Cavoj, Ivan Nikitin, Colin Perkins and Ornela Dardha.<br>
           <em>Session types for the transport layer: towards an implementation of TCP</em>
@@ -79,7 +79,8 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
     <tr>
         <td class="time">15:00-15:35</td>
-        <td rowspan="2">Session:<br>Session subtyping</td>
+        <td rowspan="2">Session:<br>Session subtyping<br><br>Chair: Alceste
+        Scalas</td>
         <td>
           Thien Udomsrirungruang and Nobuko Yoshida.<br>
           <em>Three Subtyping Algorithms for Binary Session Types and their Complexity Analyses</em>
@@ -98,7 +99,8 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
     <tr>
         <td class="time">16:30-17:05</td>
-        <td rowspan="3">Session:<br>Session-typed programming</td>
+        <td rowspan="3">Session:<br>Session-typed programming<br><br>Chair:
+        Raymond Hu</td>
         <td>
           Pedro Ângelo, Atsushi Igarashi and Vasco Vasconcelos<br>
           <em>Session-typed Metaprogramming</em>
