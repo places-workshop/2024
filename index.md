@@ -33,7 +33,7 @@ PLACES has had 14 previous iterations; this is the 15th edition.
 
 <!--
 {: .news }
-The [programme and proceedings](programme-proceedings) of PLACES 2023 are now published.
+The [programme and proceedings](programme-proceedings) of PLACES 2024 are now published.
 -->
 
 * Keynote speakers and talks:
