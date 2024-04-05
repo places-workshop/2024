@@ -40,7 +40,7 @@ The PLACES 2023 proceedings are published in [volume 378 of EPTCS](http://doi.or
     </tr>
     <tr>
         <td class="time">10:30-11:05</td>
-        <td rowspan="3">Session:<br>Networking and Semantics<br><br>Chair: TBA</td>
+        <td rowspan="3">Session:<br>Networking and Semantics<br><br>Chair: Felix Stutz</td>
         <td>
           Samuel Cavoj, Ivan Nikitin, Colin Perkins and Ornela Dardha.<br>
           <em>Session types for the transport layer: towards an implementation of TCP</em>
