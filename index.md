@@ -31,10 +31,8 @@ PLACES has had 14 previous iterations; this is the 15th edition.
 
 ## Highlights
 
-<!--
 {: .news }
 The [programme and proceedings](programme-proceedings) of PLACES 2024 are now published.
--->
 
 * Keynote speakers and talks:
   - **[Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/)**, Università di Torino, IT. *["Simple MultiParty Sessions"](programme-proceedings#keynote2)*
