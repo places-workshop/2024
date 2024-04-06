@@ -8,7 +8,7 @@ permalink: /programme-proceedings
 # PLACES 2024 Programme and Proceedings
 
 {: .proceedings }
-The PLACES 2023 proceedings are published in [volume 401 of EPTCS](http://dx.doi.org/10.4204/EPTCS.401).
+The PLACES 2024 proceedings are published in [volume 401 of EPTCS](http://dx.doi.org/10.4204/EPTCS.401).
 
 **6 April 2024**<br>
 **[Parc Alvisse Hotel](https://maps.app.goo.gl/7JXZ9afgpbw4zPk86), Room: Holenfells**
