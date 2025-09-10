@@ -28,11 +28,13 @@ established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
 PLACES has had 14 previous iterations; this is the 15th edition.
 
+The [programme and proceedings](programme-proceedings) of PLACES 2024 are now published.
+
 
 ## Highlights
 
 {: .news }
-The [programme and proceedings](programme-proceedings) of PLACES 2024 are now published.
+Call for Papers: PLACES 2024 Special Issue of the Journal of Logical and Algebraic Methods in Programming (JLAMP).  Click [here](cfp-special) for more info.
 
 * Keynote speakers and talks:
   - **[Mariangiola Dezani-Ciancaglini](http://www.di.unito.it/~dezani/)**, Università di Torino, IT. *["Simple MultiParty Sessions"](programme-proceedings#keynote2)*

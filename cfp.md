@@ -7,18 +7,23 @@ permalink: /cfp
 
 # PLACES 2024 Call for Papers
 
+The 2024 edition of PLACES has concluded.
+
+See [here](cfp-special) for the **Call for Papers** for the **PLACES 2024 Special Issue** of the Journal of Logical and Algebraic Methods in Programming (JLAMP).
+
+
 ## Important Dates
 
-* **EXTENDED** Abstract registration deadline: **7 February** 2024, AoE
-* **EXTENDED** Submission deadline: **11 February** 2024, AoE
-* Author notification: **8 March** 2024, AoE
-* Workshop: 6 April 2024 in Luxembourg City, Luxembourg
+* ~~**EXTENDED** Abstract registration deadline: **7 February** 2024, AoE~~
+* ~~**EXTENDED** Submission deadline: **11 February** 2024, AoE~~
+* ~~Author notification: **8 March** 2024, AoE~~
+* ~~Workshop: 6 April 2024 in Luxembourg City, Luxembourg~~
 
 
 ## Submission Instructions
 
-Submission site:
-[https://easychair.org/conferences/?conf=places2024](https://easychair.org/conferences/?conf=places2024)
+~~Submission site:
+[https://easychair.org/conferences/?conf=places2024](https://easychair.org/conferences/?conf=places2024)~~
 
 <!--**TODO** <https://easychair.org/conferences/?conf=places2024>-->
 
