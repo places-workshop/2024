@@ -24,7 +24,7 @@ For any queries, please contact [Diana Costa](mailto:dfdcosta@fc.ul.pt) and
 
 ## Important Dates
 
-* Manuscript submission deadline: **15th October**, 2025
+* Manuscript submission deadline: ~~15th October~~ **31st October**, 2025
 * Author notification: **15th December**, 2025
 * Revised manuscripts due: **30th January**, 2026
 * Publication by: **15th February**, 2026
